@@ -1,0 +1,11 @@
+WALAC MUSEO — DIOS WALAC
+
+Esta carpeta contiene únicamente la pantalla interactiva de Dios Walac y sus imágenes.
+
+PUBLICACIÓN:
+1. Descomprime este ZIP.
+2. Sube la carpeta Dios-Walac completa a tu repositorio (o sube todos sus archivos juntos dentro de una carpeta llamada Dios-Walac).
+3. Abre Dios-Walac/index.html desde GitHub Pages.
+
+No se deben separar los HTML de las imágenes. Mantén todos los archivos juntos en esta carpeta.
+La pantalla Mujer Capullana no se modifica; el enlace superior vuelve al index.html de la carpeta principal del repositorio.
